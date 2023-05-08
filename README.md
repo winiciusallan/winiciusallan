@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Winicius.</h2>
 
-🔍 DevOps enthusiast and learning all i can every day
+🔍 DevOps enthusiast and learning something new every day
 
 🌱 I'm currently studiyng Shell Script, Linux and Virtualization solutions
 
