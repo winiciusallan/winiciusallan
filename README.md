@@ -4,6 +4,8 @@
 
 🌱 I'm currently studiyng Shell Script, Linux and Virtualization solutions
 
+🎯 Interest in contribute to opensource projects
+
 <div align="center">
   <a href="https://github.com/winiciusallan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=winiciusallan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
