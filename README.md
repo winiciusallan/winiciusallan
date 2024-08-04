@@ -2,7 +2,7 @@
 
 🔍 DevOps enthusiast and learning something new every day
 
-🌱 I'm currently studiyng Shell Script, Linux and Virtualization solutions
+🌱 I'm currently studiyng Cloud computing, Kubernetes and others DevOps tools
 
 🎯 Interest in contribute to opensource projects
 
