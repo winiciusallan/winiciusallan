@@ -1,30 +1,11 @@
-<h2 align="center">👋 Hello! I'm Winicius.</h2>
+## 👋 Hello! I'm Winicius
 
-🔍 DevOps enthusiast and learning something new every day
+Actually, working as SRE in @[ufcg-lsd](https://www.lsd.ufcg.edu.br/)
 
-🌱 I'm currently studiyng Cloud computing, Kubernetes and others DevOps tools
+* 🔍 DevOps enthusiast and learning something new every day
 
-🎯 Interest in contribute to opensource projects
+* 🌱 I'm currently studiyng Golang, Cloud computing, Kubernetes and others DevOps tools
 
-<div align="center">
-  <a href="https://github.com/winiciusallan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=winiciusallan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winiciusallan&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
- 
- * * *
- <div align="center" style="display: inline-block">
-   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  </div>
- <br>
- <div align="center">
-  <a href="https://www.linkedin.com/in/winiciusbezerra/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-  <a href="https://www.instagram.com/wini_allan"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-   
+* 🎯 Interest in contribute to opensource projects
+
+* 💬 You can reach me out by **email** or [linkedin](https://www.linkedin.com/in/winiciusbezerra/)
