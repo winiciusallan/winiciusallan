@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Winicius
 
-Curretly working as SRE in @[ufcg-lsd](https://www.lsd.ufcg.edu.br/)
+Currently working as SRE in @[ufcg-lsd](https://www.lsd.ufcg.edu.br/)
 
 * 🔍 DevOps enthusiast and learning something new every day
 
