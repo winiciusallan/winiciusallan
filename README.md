@@ -2,7 +2,7 @@
 
 Currently working as SRE in @[ufcg-lsd](https://www.lsd.ufcg.edu.br/)
 
-* 🔍 DevOps enthusiast and learning something new every day
+* 🔍 Enthusiast about Cloud and Infrastructure. Learning something new every day
 
 * 🌱 I'm currently studiyng Golang, Cloud computing, Kubernetes and others DevOps tools
 
