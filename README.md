@@ -8,4 +8,4 @@ Currently working as SRE in @[ufcg-lsd](https://www.lsd.ufcg.edu.br/)
 
 * 🎯 Interest in contribute to opensource projects
 
-* 💬 You can reach me out by **email** or [linkedin](https://www.linkedin.com/in/winiciusbezerra/)
+* 💬 You can reach me out by **[email](mailto:winiciusab12@gmail.com)** or [linkedin](https://www.linkedin.com/in/winiciusbezerra/)
